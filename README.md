@@ -1,12 +1,12 @@
 # 👋 Welcome to My Academic Profile
 
-I am a university lecturer working in the field of **numerical analysis and partial differential equations**.
+I am a Postdoctoral Fellow working in the field of **numerical analysis and partial differential equations**.
 
 ---
 
 ## 🎓 About Me
 
-- 🎓 Position: University Lecturer
+- 🎓 Position: Postdoctoral Fellow
 - 📍 Research Field: Numerical Analysis, PDEs, Fractional Differential Equations
 - 🧠 Interests: Nonlocal models, integro-differential equations, time-fractional diffusion
 - 📊 Focus: High-order numerical schemes and error analysis
