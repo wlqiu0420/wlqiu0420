@@ -1,6 +1,6 @@
 # 👋 Welcome to My Academic Profile
 
-I am a Postdoctoral Fellow working in the field of **numerical analysis and partial differential equations**.
+Wenlin Qiu (邱文林) is a Postdoctoral Fellow working in the field of **numerical analysis and partial differential equations**.
 
 ---
 
