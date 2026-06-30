@@ -55,10 +55,9 @@ My research focuses on the development and analysis of numerical methods for com
 
 ## 🧮 Current Work
 
-- High-order time-stepping schemes for fractional diffusion-wave models  
+- High-order time-stepping schemes for subdiffusion or diffusion-wave models  
 - Nonlinear viscoelastic integro-differential systems  
-- Structure-preserving numerical methods  
-- Fast algorithms for memory terms  
+    
 
 ---
 
@@ -112,11 +111,10 @@ My research focuses on the development and analysis of numerical methods for com
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Honors & Awards
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
+- Elsevier–Stanford University World's Top 2% Scientists (2025)
+- Wiley China Excellent Author Program (2025)
 
 ---
 
