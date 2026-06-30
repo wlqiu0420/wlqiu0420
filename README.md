@@ -62,6 +62,30 @@ My research focuses on the development and analysis of numerical methods for com
 
 ---
 
+## 📝 Academic Service
+
+### Reviewer for
+
+- *International Journal for Numerical Methods in Engineering*
+- *Studies in Applied Mathematics*
+- *Journal of Scientific Computing*
+- *Advances in Computational Mathematics*
+- *Physics of Fluids*
+- *Fractional Calculus and Applied Analysis*
+- *Applied Numerical Mathematics*
+- *Communications in Nonlinear Science and Numerical Simulation*
+- *Journal of Computational and Applied Mathematics*
+- *Numerical Algorithms*
+
+
+### Review Databases
+
+- Mathematical Reviews (MathSciNet)
+- zbMATH Open
+
+
+---
+
 ## 🧑‍🏫 Teaching
 
 - Numerical Analysis  
