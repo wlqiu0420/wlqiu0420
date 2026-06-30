@@ -94,12 +94,11 @@ My research focuses on the development and analysis of numerical methods for com
 
 ---
 
-## 🏆 Academic Metrics
+## 🏆 Honors & Awards
 
-- SCI Papers: 60+  
-- ESI Highly Cited Papers: 8  
-- Google Scholar Citations: 1400+  
-- H-index: 26
+- Elsevier–Stanford University World's Top 2% Scientists (2025)
+- Wiley China Excellent Author Program (2025) 
+- Google Scholar Citations: 1400+; H-index: 26
 
 ---
 
@@ -108,13 +107,6 @@ My research focuses on the development and analysis of numerical methods for com
 - Email: qwllkx12379@163.com  
 - Institution: Yunnan Normal University  
 - Research Profile: [https://scholar.google.com](https://scholar.google.com/citations?user=qxuTVOkAAAAJ&hl=zh-CN&oi=ao)
-
----
-
-## 🏆 Honors & Awards
-
-- Elsevier–Stanford University World's Top 2% Scientists (2025)
-- Wiley China Excellent Author Program (2025)
 
 ---
 
