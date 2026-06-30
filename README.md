@@ -31,7 +31,7 @@ My research focuses on the development and analysis of numerical methods for com
   
 - Published in journals such as:
   
-- Xiangyi Peng, Lisen Ding and Wenlin Qiu*. An Efficient Space-Time Two-Grid Compact Difference Scheme for the Two-Dimensional Viscous Burgers' Equation. Applied Numerical Mathematics, 225 (2026) 87–110.
+- Xiangyi Peng, Lisen Ding and Wenlin Qiu*. An Efficient Space-Time Two-Grid Compact Difference Scheme for the Two-Dimensional Viscous Burgers' Equation. _Applied Numerical Mathematics_, 225 (2026) 87–110.
 - Mengmeng Liu, Jie Ma, Wenlin Qiu (共同一作) and Xiangcheng Zheng. Multiscale solution decomposition of nonlocal-in-time problems with application in numerical computation. SIAM Journal on Multiscale Modeling & Simulation, 待刊 (2026).
 - Hao Zhang, Kexin Li* and Wenlin Qiu*. Spatial two-grid compact difference scheme for two-dimensional nonlinear diffusion-wave equations with variable exponent. Communications in Nonlinear Science and Numerical Simulation, 待刊 (2026).
 - Wenlin Qiu, Tao Guo, Yiqun Li, Xu Guo and Xiangcheng Zheng. A multiscale Abel kernel and application in viscoelastic problem. Communications in Mathematical Sciences, 待刊 (2026).
