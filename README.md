@@ -105,7 +105,7 @@ My research focuses on the development and analysis of numerical methods for com
 ## 📫 Contact
 
 - Email: qwllkx12379@163.com  
-- Institution: Yunnan Normal University  
+- Institution: Shandong University  
 - Research Profile: [https://scholar.google.com](https://scholar.google.com/citations?user=qxuTVOkAAAAJ&hl=zh-CN&oi=ao)
 
 ---
