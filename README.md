@@ -56,7 +56,7 @@ My research focuses on the development and analysis of numerical methods for com
 
 ## 🧮 Current Work
 
-- **Wenlin Qiu**, Kexin Li, Yiqun Li, Hao Zhang. The error analysis of nonuniform L1 and L1-2σ methods for the variable-exponent subdiffusion model. _Journal of Scientific Computing_,  Major Revision.
+- **Wenlin Qiu**, Kexin Li, Yiqun Li, Hao Zhang. The error analysis of nonuniform L1 and L1-2σ methods for the variable-exponent subdiffusion model. _Journal of Scientific Computing_,  In Revision.
   
     
 ---
