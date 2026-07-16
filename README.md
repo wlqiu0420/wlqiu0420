@@ -31,7 +31,7 @@ My research focuses on the development and analysis of numerical methods for com
   
 - Published in journals such as:
 
-- Xiangcheng Zheng, **Wenlin Qiu**, Martin Stynes. Analysis and approximation of a weakly singular Volterra integral equation with nonlinear exponent. _SIAM Journal on Numerical Analysis_, 2026.
+- Xiangcheng Zheng, **Wenlin Qiu**, Martin Stynes. Analysis and approximation of a weakly singular Volterra integral equation with nonlinear exponent. _SIAM Journal on Numerical Analysis_, 待刊 2026.
 - Mengmeng Liu, Jie Ma, **Wenlin Qiu** (共同一作) and Xiangcheng Zheng. Multiscale solution decomposition of nonlocal-in-time problems with application in numerical computation. _SIAM Journal on Multiscale Modeling & Simulation_, 待刊 (2026).
 - Xiangyi Peng, Lisen Ding and **Wenlin Qiu***. An Efficient Space-Time Two-Grid Compact Difference Scheme for the Two-Dimensional Viscous Burgers' Equation. _Applied Numerical Mathematics_, 225 (2026) 87–110.
 - Hao Zhang, Kexin Li* and **Wenlin Qiu***. Spatial two-grid compact difference scheme for two-dimensional nonlinear diffusion-wave equations with variable exponent. _Communications in Nonlinear Science and Numerical Simulation_, 待刊 (2026).
