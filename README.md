@@ -35,7 +35,7 @@ My research focuses on the development and analysis of numerical methods for com
 - Mengmeng Liu<sup>#</sup>, Jie Ma, **Wenlin Qiu**<sup>#</sup> and Xiangcheng Zheng. Multiscale solution decomposition of nonlocal-in-time problems with application in numerical computation. _SIAM Journal on Multiscale Modeling & Simulation_, (2026).
 - Xiangyi Peng, Lisen Ding and **Wenlin Qiu***. An Efficient Space-Time Two-Grid Compact Difference Scheme for the Two-Dimensional Viscous Burgers' Equation. _Applied Numerical Mathematics_, 225 (2026) 87–110.
 - Hao Zhang, Kexin Li* and **Wenlin Qiu***. Spatial two-grid compact difference scheme for two-dimensional nonlinear diffusion-wave equations with variable exponent. _Communications in Nonlinear Science and Numerical Simulation_, 163 (2026) 110592.
-- **Wenlin Qiu**, Tao Guo, Yiqun Li, Xu Guo and Xiangcheng Zheng. A multiscale Abel kernel and application in viscoelastic problem. _Communications in Mathematical Sciences_, 24 (2026) 2047-2067.
+- **Wenlin Qiu**, Tao Guo, Yiqun Li, Xu Guo and Xiangcheng Zheng. A multiscale Abel kernel and application in viscoelastic problem. _Communications in Mathematical Sciences_, 24 (2026) 2047–2067.
 - **Wenlin Qiu** and Xiangcheng Zheng. Numerical analysis for subdiffusion problem with non-positive memory. _Calcolo_, 62 (2025) 39.
 - **Wenlin Qiu** and Xiangcheng Zheng. Numerical analysis for high-order methods for variable-exponent fractional diffusion-wave equation. _Journal of Scientific Computing_, 105 (2025) 53.
 - Tao Guo, Yiqun Li and **Wenlin Qiu***. Compact difference method for Euler-Bernoulli beams and plates with nonlinear nonlocal damping. _Applied Numerical Mathematics_, 219 (2025) 1–18.
