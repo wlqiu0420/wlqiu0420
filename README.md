@@ -26,7 +26,7 @@ My research focuses on the development and analysis of numerical methods for com
 
 ## 📚 Selected Publications
 
-- More than **70 SCI-indexed papers**
+- More than **60 SCI-indexed papers**
 - Including **9 ESI highly cited papers**
   
 - Published in journals such as:
