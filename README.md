@@ -58,6 +58,7 @@ My research focuses on the development and analysis of numerical methods for com
 
 - **Wenlin Qiu**, Kexin Li, Yiqun Li and Hao Zhang. The optimal error analysis of nonuniform L1 method for the variable-exponent subdiffusion model. _Journal of Scientific Computing_,  In Revision.
 - Yiqun Li, Mengmeng Liu and **Wenlin Qiu***. Optimal control of variable-exponent subdiffusion, arXiv preprint arXiv:2505.17678v1.
+- Yingwen Guo, Mengmeng Liu, **Wenlin Qiu*** and Xiangcheng Zheng. Error estimates for a finite element approximation of a generalized viscoelastic flow model. _Journal of Mathematical Fluid Mechanics_,  In Revision.
 
   
     
