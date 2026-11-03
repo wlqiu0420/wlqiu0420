@@ -34,12 +34,12 @@ My research focuses on the development and analysis of numerical methods for com
 - Xiangcheng Zheng, **Wenlin Qiu**, Martin Stynes. Analysis and approximation of a weakly singular Volterra integral equation with nonlinear exponent. _SIAM Journal on Numerical Analysis_, (2026).
 - Mengmeng Liu<sup>#</sup>, Jie Ma, **Wenlin Qiu**<sup>#</sup> and Xiangcheng Zheng. Multiscale solution decomposition of nonlocal-in-time problems with application in numerical computation. _SIAM Journal on Multiscale Modeling & Simulation_, (2026).
 - Xiangcheng Zheng, Yiqun Li and **Wenlin Qiu**. Local modification of subdiffusion by initial Fickian diffusion: Multiscale modeling, analysis, and computation. _SIAM Journal on Multiscale Modeling & Simulation_, 22 (2024) 1534–1557.
-- **Wenlin Qiu**, Kexin Li, Yiqun Li and Hao Zhang. The optimal error analysis of nonuniform L1 method for the variable-exponent subdiffusion model. _Journal of Scientific Computing_, (2026).
 - Yingwen Guo, Mengmeng Liu, **Wenlin Qiu*** and Xiangcheng Zheng. Error estimates for a finite element approximation of a generalized viscoelastic flow model. _Journal of Mathematical Fluid Mechanics_, 28 (2026) 79.
 - **Wenlin Qiu**, Tao Guo, Yiqun Li, Xu Guo and Xiangcheng Zheng. A multiscale Abel kernel and application in viscoelastic problem. _Communications in Mathematical Sciences_, 24 (2026) 2047–2067.
+- **Wenlin Qiu**. Optimal error estimate of an accurate second-order scheme for Volterra integrodifferential equations with tempered multi-term kernels. _Advances in Computational Mathematics_, 49 (2023) 43.
+- **Wenlin Qiu**, Kexin Li, Yiqun Li and Hao Zhang. The optimal error analysis of nonuniform L1 method for the variable-exponent subdiffusion model. _Journal of Scientific Computing_, (2026).
 - **Wenlin Qiu** and Xiangcheng Zheng. Numerical analysis for high-order methods for variable-exponent fractional diffusion-wave equation. _Journal of Scientific Computing_, 105 (2025) 53.
 - Xiangyi Peng, **Wenlin Qiu***, Mahmoud Zaky and Ahmed Hendy. Temporal second-order fast finite difference/compact difference schemes for time-fractional generalized Burgers' equations. _Journal of Scientific Computing_, 99 (2024) 52.
-- **Wenlin Qiu**. Optimal error estimate of an accurate second-order scheme for Volterra integrodifferential equations with tempered multi-term kernels. _Advances in Computational Mathematics_, 49 (2023) 43.
 - **Wenlin Qiu** and Xiangcheng Zheng. Numerical analysis for subdiffusion problem with non-positive memory. _Calcolo_, 62 (2025) 39.
 - Tao Guo, Yiqun Li and **Wenlin Qiu***. Compact difference method for Euler-Bernoulli beams and plates with nonlinear nonlocal damping. _Applied Numerical Mathematics_, 219 (2025) 1–18.
 - Yingwen Guo, Kexin Li and **Wenlin Qiu***. An unconditionally stable fully discrete method for Navier-Stokes-type viscoelastic fluid models with tempered kernel. _Physics of Fluids_, 38 (2026) 103124.
