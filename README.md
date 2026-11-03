@@ -50,10 +50,11 @@ My research focuses on the development and analysis of numerical methods for com
 - **Wenlin Qiu**, Xiangcheng Zheng and Kassem Mustapha. Numerical approximations for a hyperbolic integrodifferential equation with a non-positive variable-sign kernel and nonlinear-nonlocal damping. _Applied Numerical Mathematics_, 213 (2025) 61–76.
 - Tao Guo, Yiqun Li and **Wenlin Qiu***. Compact difference method for Euler-Bernoulli beams and plates with nonlinear nonlocal damping. _Applied Numerical Mathematics_, 219 (2025) 1–18.
 - Xiangyi Peng, Lisen Ding and **Wenlin Qiu***. An Efficient Space-Time Two-Grid Compact Difference Scheme for the Two-Dimensional Viscous Burgers' Equation. _Applied Numerical Mathematics_, 225 (2026) 87–110.
+- **Wenlin Qiu**, Da Xu and Jing Guo. The Crank–Nicolson-type Sinc–Galerkin method for the fourth-order partial integro-differential equation with a weakly singular kernel. _Applied Numerical Mathematics_, 159 (2021) 239–258.
 - Hao Zhang, Kexin Li* and **Wenlin Qiu***. Spatial two-grid compact difference scheme for two-dimensional nonlinear diffusion-wave equations with variable exponent. _Communications in Nonlinear Science and Numerical Simulation_, 163 (2026) 110592.
 - Tao Guo, Omid Nikan, **Wenlin Qiu*** and Da Xu. Localized meshless approaches based on theta method and BDF2 for nonlinear Sobolev equation arising from fluid dynamics. _Communications in Nonlinear Science and Numerical Simulation_, 117 (2023) 106989.
 - **Wenlin Qiu**, Kexin Li and Xu Xiao. Second-order accurate numerical scheme with graded meshes for the nonlinear partial integrodifferential equation arising from viscoelasticity. _Communications in Nonlinear Science and Numerical Simulation_, 116 (2023) 106804.
-- **Wenlin Qiu**, Da Xu and Jing Guo. The Crank–Nicolson-type Sinc–Galerkin method for the fourth-order partial integro-differential equation with a weakly singular kernel. _Applied Numerical Mathematics_, 159 (2021) 239–258.
+
 
 ---
 
