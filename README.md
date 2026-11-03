@@ -41,7 +41,6 @@ My research focuses on the development and analysis of numerical methods for com
 - **Wenlin Qiu** and Xiangcheng Zheng. Numerical analysis for high-order methods for variable-exponent fractional diffusion-wave equation. _Journal of Scientific Computing_, 105 (2025) 53.
 - Xiangyi Peng, **Wenlin Qiu***, Mahmoud Zaky and Ahmed Hendy. Temporal second-order fast finite difference/compact difference schemes for time-fractional generalized Burgers' equations. _Journal of Scientific Computing_, 99 (2024) 52.
 - **Wenlin Qiu** and Xiangcheng Zheng. Numerical analysis for subdiffusion problem with non-positive memory. _Calcolo_, 62 (2025) 39.
-- Tao Guo, Yiqun Li and **Wenlin Qiu***. Compact difference method for Euler-Bernoulli beams and plates with nonlinear nonlocal damping. _Applied Numerical Mathematics_, 219 (2025) 1–18.
 - Yingwen Guo, Kexin Li and **Wenlin Qiu***. An unconditionally stable fully discrete method for Navier-Stokes-type viscoelastic fluid models with tempered kernel. _Physics of Fluids_, 38 (2026) 103124.
 - Yingwen Guo and **Wenlin Qiu***. First-order long-time convergence of fully discrete methods for viscoelastic flow with tempered power-law kernel. _Physics of Fluids_, 37 (2025) 093122.
 - **Wenlin Qiu**, Omid Nikan and Zakieh Avazzadeh. Numerical investigation of generalized tempered-type integrodifferential equations with respect to another function. _Fractional Calculus and Applied Analysis_, 26 (2023) 2580–2601.
@@ -49,6 +48,7 @@ My research focuses on the development and analysis of numerical methods for com
 - **Wenlin Qiu**, Graeme Fairweather, Xuehua Yang and Haixiang Zhang. ADI finite element Galerkin methods for two-dimensional tempered fractional integro-differential equations. _Calcolo_, 60 (2023) 41.
 - Hao Chen, **Wenlin Qiu***, Mahmoud Zaky and Ahmed Hendy. A two-grid temporal second-order scheme for the two-dimensional nonlinear Volterra integro-differential equation with weakly singular kernel. _Calcolo_, 60 (2023) 13.
 - **Wenlin Qiu**, Xiangcheng Zheng and Kassem Mustapha. Numerical approximations for a hyperbolic integrodifferential equation with a non-positive variable-sign kernel and nonlinear-nonlocal damping. _Applied Numerical Mathematics_, 213 (2025) 61–76.
+- Tao Guo, Yiqun Li and **Wenlin Qiu***. Compact difference method for Euler-Bernoulli beams and plates with nonlinear nonlocal damping. _Applied Numerical Mathematics_, 219 (2025) 1–18.
 - Xiangyi Peng, Lisen Ding and **Wenlin Qiu***. An Efficient Space-Time Two-Grid Compact Difference Scheme for the Two-Dimensional Viscous Burgers' Equation. _Applied Numerical Mathematics_, 225 (2026) 87–110.
 - Hao Zhang, Kexin Li* and **Wenlin Qiu***. Spatial two-grid compact difference scheme for two-dimensional nonlinear diffusion-wave equations with variable exponent. _Communications in Nonlinear Science and Numerical Simulation_, 163 (2026) 110592.
 - Tao Guo, Omid Nikan, **Wenlin Qiu*** and Da Xu. Localized meshless approaches based on theta method and BDF2 for nonlinear Sobolev equation arising from fluid dynamics. _Communications in Nonlinear Science and Numerical Simulation_, 117 (2023) 106989.
