@@ -73,6 +73,7 @@ My research focuses on the development and analysis of numerical methods for com
 
 ### Reviewer for
 
+- *Computer Methods in Applied Mechanics and Engineering*
 - *International Journal for Numerical Methods in Engineering*
 - *Studies in Applied Mathematics*
 - *Journal of Scientific Computing*
@@ -83,6 +84,7 @@ My research focuses on the development and analysis of numerical methods for com
 - *Communications in Nonlinear Science and Numerical Simulation*
 - *Journal of Computational and Applied Mathematics*
 - *Numerical Algorithms*
+- *Numerical Methods for Partial Differential Equations*
 
 
 ### Review Databases
