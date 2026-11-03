@@ -33,6 +33,9 @@ My research focuses on the development and analysis of numerical methods for com
 
 - Xiangcheng Zheng, **Wenlin Qiu**, Martin Stynes. Analysis and approximation of a weakly singular Volterra integral equation with nonlinear exponent. _SIAM Journal on Numerical Analysis_, (2026).
 - Mengmeng Liu<sup>#</sup>, Jie Ma, **Wenlin Qiu**<sup>#</sup> and Xiangcheng Zheng. Multiscale solution decomposition of nonlocal-in-time problems with application in numerical computation. _SIAM Journal on Multiscale Modeling & Simulation_, (2026).
+- **Wenlin Qiu**, Kexin Li, Yiqun Li and Hao Zhang. The optimal error analysis of nonuniform L1 method for the variable-exponent subdiffusion model. _Journal of Scientific Computing_, (2026).
+- Yingwen Guo, Mengmeng Liu, **Wenlin Qiu*** and Xiangcheng Zheng. Error estimates for a finite element approximation of a generalized viscoelastic flow model. _Journal of Mathematical Fluid Mechanics_, 28 (2026) 79.
+- Yingwen Guo, Kexin Li and **Wenlin Qiu***. An unconditionally stable fully discrete method for Navier-Stokes-type viscoelastic fluid models with tempered kernel. _Physics of Fluids_, 38 (2026) 103124.
 - Xiangyi Peng, Lisen Ding and **Wenlin Qiu***. An Efficient Space-Time Two-Grid Compact Difference Scheme for the Two-Dimensional Viscous Burgers' Equation. _Applied Numerical Mathematics_, 225 (2026) 87–110.
 - Hao Zhang, Kexin Li* and **Wenlin Qiu***. Spatial two-grid compact difference scheme for two-dimensional nonlinear diffusion-wave equations with variable exponent. _Communications in Nonlinear Science and Numerical Simulation_, 163 (2026) 110592.
 - **Wenlin Qiu**, Tao Guo, Yiqun Li, Xu Guo and Xiangcheng Zheng. A multiscale Abel kernel and application in viscoelastic problem. _Communications in Mathematical Sciences_, 24 (2026) 2047–2067.
@@ -56,9 +59,8 @@ My research focuses on the development and analysis of numerical methods for com
 
 ## 🧮 Current Work
 
-- **Wenlin Qiu**, Kexin Li, Yiqun Li and Hao Zhang. The optimal error analysis of nonuniform L1 method for the variable-exponent subdiffusion model. _Journal of Scientific Computing_,  In Revision.
 - Yiqun Li, Mengmeng Liu and **Wenlin Qiu***. Optimal control of variable-exponent subdiffusion, arXiv preprint arXiv:2505.17678v1.
-- Yingwen Guo, Mengmeng Liu, **Wenlin Qiu*** and Xiangcheng Zheng. Error estimates for a finite element approximation of a generalized viscoelastic flow model. _Journal of Mathematical Fluid Mechanics_,  In Revision.
+
 
   
     
