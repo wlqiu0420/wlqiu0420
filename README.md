@@ -60,6 +60,7 @@ My research focuses on the development and analysis of numerical methods for com
 ## 🧮 Current Work
 
 - Yiqun Li, Mengmeng Liu and **Wenlin Qiu***. Optimal control of variable-exponent subdiffusion, arXiv preprint arXiv:2505.17678v1.
+- **Wenlin Qiu***. Long-time stability and convergence of a BDF3 method for a parabolic equation with fading memory, arXiv preprint arXiv:2610.32364.
 
 
   
