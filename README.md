@@ -99,7 +99,7 @@ My research focuses on the development and analysis of numerical methods for com
 - Elsevier–Stanford University World's Top 2% Scientists (2025)
 - Wiley China Excellent Author Program (2025)
 - Provincial Outstanding Master's Thesis (2023)
-- Google Scholar Citations: 1400+; H-index: 26
+- Provincial Outstanding Doctoral Thesis (2026)
 
 ---
 
