@@ -40,10 +40,10 @@ My research focuses on the development and analysis of numerical methods for com
 - **Wenlin Qiu**, Kexin Li, Yiqun Li and Hao Zhang. The optimal error analysis of nonuniform L1 method for the variable-exponent subdiffusion model. _Journal of Scientific Computing_, (2026).
 - **Wenlin Qiu** and Xiangcheng Zheng. Numerical analysis for high-order methods for variable-exponent fractional diffusion-wave equation. _Journal of Scientific Computing_, 105 (2025) 53.
 - Xiangyi Peng, **Wenlin Qiu***, Mahmoud Zaky and Ahmed Hendy. Temporal second-order fast finite difference/compact difference schemes for time-fractional generalized Burgers' equations. _Journal of Scientific Computing_, 99 (2024) 52.
-- **Wenlin Qiu** and Xiangcheng Zheng. Numerical analysis for subdiffusion problem with non-positive memory. _Calcolo_, 62 (2025) 39.
 - Yingwen Guo, Kexin Li and **Wenlin Qiu***. An unconditionally stable fully discrete method for Navier-Stokes-type viscoelastic fluid models with tempered kernel. _Physics of Fluids_, 38 (2026) 103124.
 - Yingwen Guo and **Wenlin Qiu***. First-order long-time convergence of fully discrete methods for viscoelastic flow with tempered power-law kernel. _Physics of Fluids_, 37 (2025) 093122.
 - **Wenlin Qiu**, Omid Nikan and Zakieh Avazzadeh. Numerical investigation of generalized tempered-type integrodifferential equations with respect to another function. _Fractional Calculus and Applied Analysis_, 26 (2023) 2580–2601.
+- **Wenlin Qiu** and Xiangcheng Zheng. Numerical analysis for subdiffusion problem with non-positive memory. _Calcolo_, 62 (2025) 39.
 - **Wenlin Qiu**, Yiqun Li and Xiangcheng Zheng. Numerical analysis of nonlinear Volterra integrodifferential equations for viscoelastic rods and plates. _Calcolo_, 61 (2024) 50.
 - **Wenlin Qiu**, Graeme Fairweather, Xuehua Yang and Haixiang Zhang. ADI finite element Galerkin methods for two-dimensional tempered fractional integro-differential equations. _Calcolo_, 60 (2023) 41.
 - Hao Chen, **Wenlin Qiu***, Mahmoud Zaky and Ahmed Hendy. A two-grid temporal second-order scheme for the two-dimensional nonlinear Volterra integro-differential equation with weakly singular kernel. _Calcolo_, 60 (2023) 13.
