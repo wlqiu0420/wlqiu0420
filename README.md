@@ -60,6 +60,8 @@ My research focuses on the development and analysis of numerical methods for com
 ## 🧮 Current Work
 
 - Yiqun Li, Mengmeng Liu and **Wenlin Qiu***. Optimal control of variable-exponent subdiffusion, arXiv preprint arXiv:2505.17678v1.
+- **Wenlin Qiu**, Chuanwei Su and Xiangcheng Zheng, High-order smoothness and high-order collocation approximation for Volterra integral equation with multiscale and nonlinear exponent kernel, arXiv preprint arXiv:2609.05851.
+- **Wenlin Qiu**, Kexin Li, Yiqun Li and Hao Zhang. Error estimate of the nonuniform BDF3-L2 method for subdiffusion equations via multiscale solution decomposition, arXiv preprint arXiv:2609.02178.
 - **Wenlin Qiu***. Long-time stability and convergence of a BDF3 method for a parabolic equation with fading memory, arXiv preprint arXiv:2610.32364.
 
 
